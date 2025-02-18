@@ -1,14 +1,4 @@
-Welcome to Danny & Andrew's desperate attempt at Internals!!! 
+The aim of this program is to create a user friendly interface that enables users to manage their finances.
+You can create an account and store all your financial details, such as monthly income and expenses and then use it to find out how much you would be saving at the end of the year!
 
-The aim of this program is to create a user friendly interface that enables users to - nah sike, this is just a desperate attempt by the creators of this program to avoid failing 
-boards by getting lit internals.
-
-However, if you are jobless enough to try and use this program, you would be midly surprised at its usefulness. You can create an account and store all your financial details, such as
-monthly income and expenses and then use it to find out how much you would be saving at the end of the year!
-
-It might sound simple, we admit, it is, but great efforts have been taken (by Andrew mostly, he is like, the BEST) in order to ensure that your password is protected, and the integrity of
-your data is not compromised (lmao nah we just put it all in an excel sheet yo, do not expect too much and dont be surprised either, lol).
-
-But seriously, we hope you enjoy using this program and we defenitely do not judge you at all for wasting your time on something that can be done using a pen, paper and a calculator.
-(I mean come on dude, are you genuinely dumb enough to be reading this right now? Seriously??? Get a life buddy.)
 
